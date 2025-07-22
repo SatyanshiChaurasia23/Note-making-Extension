@@ -31,11 +31,11 @@ Built for focus, speed, and effortless productivity.
 1. Clone the repository:
    ```bash
    git clone https://github.com/SatyanshiChaurasia23/Note-taking-Extension.git
-2.Open Chrome and go to chrome://extensions/
-3.Enable Developer Mode (top right)
-4.Click "Load unpacked"
-5.Select the Note-taking project directory
-6.The extension will be added to Chrome!
+2. Open Chrome and go to chrome://extensions/
+3. Enable Developer Mode (top right)
+4. Click "Load unpacked"
+5. Select the Note-taking project directory
+6. The extension will be added to Chrome!
 
 # .gitignore
 node_modules/
