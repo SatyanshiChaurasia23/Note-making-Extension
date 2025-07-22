@@ -1,4 +1,4 @@
-#  📌 NoteSaver - Chrome Extension
+#  📌 Note Taking - Chrome Extension
 
 Capture notes instantly from any webpage using a sleek Chrome extension. 
 Organize ideas as you browse—no switching tabs, no lost thoughts.
