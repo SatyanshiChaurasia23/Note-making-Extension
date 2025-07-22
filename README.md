@@ -1,6 +1,9 @@
 #  📌 NoteSaver - Chrome Extension
 
-NoteSaver is a lightweight and powerful Chrome Extension that allows users to quickly create, manage, and save important notes directly from any webpage. It’s built to boost productivity and help users stay organized while browsing.
+Capture notes instantly from any webpage using a sleek Chrome extension. 
+Organize ideas as you browse—no switching tabs, no lost thoughts.
+Built for focus, speed, and effortless productivity.
+
 
 ---
 
